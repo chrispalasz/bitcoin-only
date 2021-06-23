@@ -1,8 +1,6 @@
 # Bitcoin-Only
 
-This is the repository for [bitcoin-only.com](https://bitcoin-only.com). 
-
-[Click Here](https://github.com/bitcoin-only/bitcoin-only/issues/new/choose) to raise an issue (e.g. to request content be added).
+This is the repository for [bitcoinclassroom.org](http://www.bitcoinclassroom.org). 
 
 ![](/static/og-image.png)
 
@@ -20,4 +18,3 @@ $ npm run dev
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
