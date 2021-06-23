@@ -1,4 +1,4 @@
-# Bitcoin-Only
+# Bitcoin Classroom
 
 This is the repository for [bitcoinclassroom.org](http://www.bitcoinclassroom.org). 
 
